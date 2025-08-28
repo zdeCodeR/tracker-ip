@@ -18,7 +18,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/zdeCodeR/track-ip.git
+git clone https://github.com/zdeCodeR/tracker-ip.git
 cd zxtracker
 pip3 install -r requirements.txt
 python3 zxtracker.py
